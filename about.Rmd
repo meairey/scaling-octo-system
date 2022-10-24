@@ -1,21 +1,21 @@
 ---
-title: "University Experience"
+  title: "University Experience"
 output: 
   html_document:
-    theme: sandstone
+  theme: sandstone
 ---
-
-```{r setup, include=FALSE}
+  
+  ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Academic History {.tabset .tabset-fade .tabset-pills}
 
-### Cornell University!!!!!!!  
+### Cornell University 
 
 - PhD Student (2019 to Present)
 
-### Columbia University
+### Columbia University!
 
 - M.A. Student in Ecology, Evolution, and Environmental Biology (2017 to 2019)
 
@@ -24,3 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - B.A. in Marine Science (2013-2017)
 - B.A. in Environmental Science (2013-2017)
+
+### Example
+
+- Something 
+- Something
