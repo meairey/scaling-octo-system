@@ -1,18 +1,46 @@
 ---
-title: "University Experience"
 output: 
   html_document:
     theme: sandstone
+  
 ---
+
+
   
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Academic History {.tabset .tabset-fade .tabset-pills}
-boop
 
-### Cornell University 
+
+  
+
+
+
+<br>
+<br>
+<br>
+
+
+<p align="center">
+<font size = "20"> Research </font> 
+</p>
+
+
+
+## {.tabset .tabset-fade .tabset-pills} 
+
+### Summary
+
+My research brings together elements of trophic and community ecology. 
+
+### ![]<img src="NRD.jpg" style="border:10px solid; margin-right: 20px" width="150px"> 
+
+
+<font size = 10> The Varied Role of Mesopredators in Lake Food Webs </p>
+
+
+### ![]<img src="lionfish.jpg" style="border:10px solid; margin-right: 20px" width="150px">
 
 - PhD Student (2019 to Present)
 
@@ -20,13 +48,6 @@ boop
 
 - M.A. Student in Ecology, Evolution, and Environmental Biology (2017 to 2019)
 
+</p>
 
-### Boston University 
 
-- B.A. in Marine Science (2013-2017)
-- B.A. in Environmental Science (2013-2017)
-
-### Example
-
-- Something 
-- Something
