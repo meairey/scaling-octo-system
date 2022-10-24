@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Academic History {.tabset .tabset-fade .tabset-pills}
 
-### Cornell University 
+### Cornell
 
 - PhD Student (2019 to Present)
 
