@@ -2,7 +2,7 @@
 title: "University Experience"
 output: 
   html_document:
-  theme: sandstone
+    theme: sandstone
 ---
   
 ```{r setup, include=FALSE}
