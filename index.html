@@ -67,6 +67,14 @@
 								<p>Using stable isotopes to examine the trophic diversity, niche overlap, and diet specialization of native leuciscidae.</p>
 							</article>
 
+
+							<article class="col-6 col-12-xsmall work-item">
+    							<a href="#project-details"><img src="images/thumbs/lake2.jpg" alt="lake thumbnail" />
+    							</a>
+    							<h3>Testing Section</h3>
+   								<p>Testing</p>
+							</article>
+
 						</div>
 						<ul class="actions">
 							<li><a href="#" class="button">Full Portfolio</a></li>
@@ -75,6 +83,13 @@
 
 
 				<!-- Three -->
+
+				<section id="project-details">
+				    <h2>Project Details</h2>
+				    <p>Details about the lionfish dispersal project...</p>
+				    <img src="images/fulls/lionfish.jpg" alt="Lionfish Full" />
+				    <p>Additional images or information can go here...</p>
+				</section>
 
 
 				<section id="three">
@@ -483,6 +498,31 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+
+	<script>
+    // Smooth scrolling function
+    function scrollToSection(event) {
+        event.preventDefault();
+        const targetId = event.currentTarget.getAttribute('href').substring(1);
+        const targetSection = document.getElementById(targetId);
+        if (targetSection) {
+            targetSection.scrollIntoView({
+                behavior: 'smooth'
+            });
+        }
+    }
+
+    // Attach smooth scrolling function to all links that scroll to sections
+    const scrollLinks = document.querySelectorAll('article a[href^="#"]');
+    scrollLinks.forEach(link => {
+        link.addEventListener('click', scrollToSection);
+    });
+	</script>
+
+
+
+
+
 
 	</body>
 </html>
