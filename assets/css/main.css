@@ -2565,7 +2565,7 @@ input, select, textarea {
 			display: block;
 			width: 100%;
 			height: 0.75em;
-			background-color: #37c0fb;
+			background-color: rgb(175 187 170);
 			background-image: url("images/bg01.png");
 		}
 
@@ -2612,7 +2612,7 @@ input, select, textarea {
 						bottom: -0.5em;
 						left: 50%;
 						margin-left: -0.375em;
-						background-color: #37c0fb;
+						background-color: rgb(175 187 170);
 						background-image: url("images/bg01.png");
 					}
 
